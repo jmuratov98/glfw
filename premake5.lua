@@ -47,4 +47,8 @@ project "GLFW"
     
 		filter "configurations:Release"
 			runtime "Release"
+<<<<<<< HEAD
 			optimize "on"
+=======
+			optimize "on"
+>>>>>>> fc96aa9ff8a9d4bccf23c766d89484ee3865c0e3
